@@ -10,7 +10,7 @@ Meu nome é Thiago Lehr Companhoni, e sou engenheiro de Controle e Automação f
 <br/>Meus contatos:
 
 
- [![Skype Badge](https://img.shields.io/badge/-ThiagoLehr-blue?style=flat-square&logo=Skype&link=skype:thiagolehr?add)](skype:thiagolehr?add)
+ [![Skype Badge](https://img.shields.io/badge/-ThiagoLehr-blue?style=flat-square&logo=Skype&logoColor=white&link=skype:thiagolehr?add)](skype:thiagolehr?add)
 |
  [![Linkedin Badge](https://img.shields.io/badge/-ThiagoLehr-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thiagolehr/)](https://www.linkedin.com/in/thiagolehr/) 
 | 
